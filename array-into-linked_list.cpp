@@ -126,8 +126,8 @@ int main(){
 	insertAtBeg(56);
 	insertAtEnd(99);
 	display();
-	//deleteAtBeg();
-	//deleteAtEnd();
+	deleteAtBeg();
+	deleteAtEnd();
 	insertAtMid(00);
 	display();
 	cout<<calLenthOfLinklist()<<endl;
